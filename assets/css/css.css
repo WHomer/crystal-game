@@ -1,0 +1,64 @@
+.title{
+	font-size: 3em;
+	color: #fff;
+	background-color: orange;
+	font-weight: strong;
+	display: inline-block;
+}
+
+.game-rules {
+	color: green;
+	display: block;
+	background-color: #FFE5B4;
+	width: 50%;
+	margin-top: 20px;
+}
+
+.game-rules p {
+	padding-top: 10px;
+}
+
+.match-value {
+	display: inline-block;
+	width: 200px;
+	height: 120px;
+	background-color: green;
+	color: purple;
+	font-size: 2.5em;
+	margin-top: 20px;
+}
+
+.wins-losses {
+	display: inline-block;
+	height: 120px;
+	margin-left: 10px;
+	margin-top: 20px;
+	background-color: cyan;
+	padding: 0 5px ;
+}
+
+.crystal-div {
+	width: 50%;
+	position: relative;
+}
+
+.crystal img {
+	float: left;
+}
+
+.score {
+	clear: both;
+	width: 200px;
+	color: #fff;
+	background-color: #307D7E;
+	margin-top: 10px;
+}
+
+.current-score {
+	width: 200px;
+	height: 120px;
+	color: #fff;
+	font-size: 2em;
+	background-color: #307D7E;
+	margin-top: 10px;
+}
